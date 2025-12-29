@@ -1,0 +1,1 @@
+This is a Dice Game , Whenever you select a number and if you dont get that number on the dice after rolling it , then it leads to -2 score .
