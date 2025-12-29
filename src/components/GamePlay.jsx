@@ -4,7 +4,8 @@ import NumberSelector from './NumberSelector'
 import styled from 'styled-components'
 import RollDice from './RollDice'
 import { Button } from '../styled/Button'
-import Rules from './rules'
+import Rules from './Rules'
+
 
 const GamePlay = () => {
 
